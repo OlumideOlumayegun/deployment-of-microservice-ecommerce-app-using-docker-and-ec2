@@ -46,7 +46,7 @@ The project also demonstrates DevOps best practices including:
 # Project Structure
 
 ```
-E-mart-app/
+deployment-of-microservice-ecommerce-app-using-docker-and-ec2/
 │
 ├── client/
 │   ├── Dockerfile
